@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Backend Development using JavaScript [ManageX](https://github.com/SatabrataPaul-GitAc/ManageX)
 
-- 💬 Ask me about **Python, JavaScript, Cloud Computing and Devops.**
+- 💬 Ask me about **Python, JavaScript, Backend Dev, Cloud Computing and Devops.**
 
 - 📫 How to reach me **paulsatabrata@gmail.com**
 
