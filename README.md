@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SatabrataPaul-GitAc?tab=repositories)
 
-
 - 📫 How to reach me **paulsatabrata@gmail.com**
 
 - ⚡ Fun fact **You can always find me there beside you no matter what !!! I'm always ready to help**
