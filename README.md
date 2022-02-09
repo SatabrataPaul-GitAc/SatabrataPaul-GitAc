@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/satabratayo" target="blank"><img src="https://img.shields.io/twitter/follow/satabratayo?logo=twitter&style=for-the-badge" alt="satabratayo" /></a> </p>
 
-- 🔭 I’m currently working on Backend Development using JavaScript [ManageX](https://github.com/SatabrataPaul-GitAc/ManageX)
+- 🔭 I’m currently working on Backend Development using JavaScript on [ManageX](https://github.com/SatabrataPaul-GitAc/ManageX)
 
 - 💬 Ask me about **Python, JavaScript, Backend Dev, Cloud Computing and Devops.**
 
