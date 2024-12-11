@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/satabratayo" target="blank"><img src="https://img.shields.io/twitter/follow/satabratayo?logo=twitter&style=for-the-badge" alt="satabratayo" /></a> </p>
 
-- 🔭 I’m currently working as SWE Backend Engineering Intern at [Atlan](https://atlan.com)
+- 🔭 I’m currently working as Software Engineer 2 at [Atlan](https://atlan.com)
 
 - 💬 Ask me about **Python, JavaScript, Backend Dev, Cloud Computing and Devops.**
 
