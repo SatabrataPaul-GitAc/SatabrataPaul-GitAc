@@ -30,4 +30,4 @@
 <p><a href="https://www.buymeacoffee.com/paulsatabrL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/paulsatabrL" /></a></p><br><br>
 
 <h3 align="left">Contribution Graph:</h3>
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=github)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SatabrataPaul-GitAc&theme=github)
