@@ -29,8 +29,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/paulsatabrL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/paulsatabrL" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satabratapaul-gitac&show_icons=true&locale=en&layout=compact" alt="satabratapaul-gitac" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satabratapaul-gitac&show_icons=true&locale=en" alt="satabratapaul-gitac" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satabratapaul-gitac&" alt="satabratapaul-gitac" /></p>
+<h3 align="left">Contribution Graph:</h3>
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=github)
