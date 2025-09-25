@@ -29,4 +29,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/paulsatabrL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/paulsatabrL" /></a></p><br><br>
 
-![Satabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatabrataPaul-GitAc)
+![Satabrata's GitHub stats](https://streak-stats.demolab.com/?user=SatabrataPaul-GitAc)](https://git.io/streak-stats)
+
