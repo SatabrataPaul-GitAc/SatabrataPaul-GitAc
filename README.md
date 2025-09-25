@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Software Engineer 2 at [Atlan](https://atlan.com)
 
-- 💬 Ask me about **Python, JavaScript, Backend Dev, Cloud Computing and Devops.**
+- 💬 Ask me about **Agentic AI, Python, JavaScript, Backend Dev, Cloud Computing and Devops.**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SatabrataPaul-GitAc?tab=repositories)
 
