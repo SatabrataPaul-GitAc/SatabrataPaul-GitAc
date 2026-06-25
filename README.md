@@ -1,5 +1,6 @@
 <h1 align="center">Heyo 👋 , I'm Satabrata Paul</h1>
-<h3 align="center">A passionate backend and cloud developer from India . Code 💻, Music 🎸 and Coffee ☕ is all I crave for !!! In love with Python and JavaScript.</h3>
+<h3 align="center">A Passionate Backend and DevOpps Engineer from India 🇮🇳,
+  Code 💻, Music 🎸 and Coffee ☕ is all I crave for !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satabratapaul-gitac&label=Profile%20views&color=0e75b6&style=flat" alt="satabratapaul-gitac" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🔭 I’m currently working as Software Engineer 2 at [Atlan](https://atlan.com)
 
-- 💬 Ask me about **Agentic AI, Python, JavaScript, Backend Dev, Cloud Computing and Devops.**
+- 💬 Ask me about **Agentic AI, LLMs, LangGraph, LangChain, Python, Golang JavaScript, Backend Dev, Cloud Computing and Devops.**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SatabrataPaul-GitAc?tab=repositories)
 
