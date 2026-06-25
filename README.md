@@ -1,6 +1,6 @@
 <h1 align="center">Heyo 👋 , I'm Satabrata Paul</h1>
 <h2 align="center">A Passionate Backend and DevOpps Engineer from India 🇮🇳 </h2>
-<h3 Code 💻, Music 🎸 and Coffee ☕ is all I crave for !!! </h3>
+<h3 align="center">Code 💻, Music 🎸 and Coffee ☕ is all I crave for !!! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satabratapaul-gitac&label=Profile%20views&color=0e75b6&style=flat" alt="satabratapaul-gitac" /> </p>
 
